@@ -5,8 +5,6 @@ A bunch of dynamic cool badges for your GitHub profile and Readmes!
 
 [Suggest](https://github.com/Jaysmito101/dynamic-badges/issues/new/choose)
 
-## Have an idea?
-Lets discuss : https://discord.gg/zdaCYfzFsZ
 
 # Star Rating Widget
 
@@ -99,3 +97,4 @@ Parameters :
     color
     text
     
+
